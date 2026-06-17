@@ -1,0 +1,6 @@
+{
+  "name": "ZaiArc Audit",
+  "description": "Smart Contract Audit Bounty Platform on Arc Testnet. Submit smart contracts for security audits, find vulnerabilities, and earn USDC or EURC rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
